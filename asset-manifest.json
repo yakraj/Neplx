@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.821b465c.chunk.css",
+    "main.js": "/static/js/main.57eb2c2a.chunk.js",
+    "main.js.map": "/static/js/main.57eb2c2a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.0e62ee71.js",
+    "runtime-main.js.map": "/static/js/runtime-main.0e62ee71.js.map",
+    "static/js/2.03f54393.chunk.js": "/static/js/2.03f54393.chunk.js",
+    "static/js/2.03f54393.chunk.js.map": "/static/js/2.03f54393.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7110eeacf801f9f6cd122c4c3a746054.js": "/precache-manifest.7110eeacf801f9f6cd122c4c3a746054.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.821b465c.chunk.css.map": "/static/css/main.821b465c.chunk.css.map",
+    "static/js/2.03f54393.chunk.js.LICENSE.txt": "/static/js/2.03f54393.chunk.js.LICENSE.txt",
+    "static/media/account.svg": "/static/media/account.c90dac0c.svg",
+    "static/media/catogery.svg": "/static/media/catogery.f1e47d9f.svg",
+    "static/media/chat.svg": "/static/media/chat.4ee672b1.svg",
+    "static/media/home.svg": "/static/media/home.5672e408.svg",
+    "static/media/iphone.png": "/static/media/iphone.f9fc2424.png",
+    "static/media/location.svg": "/static/media/location.2d68ecfd.svg",
+    "static/media/logo.svg": "/static/media/logo.5d5d9eef.svg",
+    "static/media/profile.jpg": "/static/media/profile.276721d9.jpg",
+    "static/media/sell.svg": "/static/media/sell.3f965605.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e62ee71.js",
+    "static/js/2.03f54393.chunk.js",
+    "static/css/main.821b465c.chunk.css",
+    "static/js/main.57eb2c2a.chunk.js"
+  ]
+}
